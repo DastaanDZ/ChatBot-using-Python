@@ -1,0 +1,107 @@
+National Institute of Technology Calicut (NIT Calicut or NITC), formerly Regional Engineering College Calicut, is a public technical university and an institute of national importance governed by the NIT Act passed by the Parliament of India. The campus is situated 22 kilometres (14 mi) north east of Kozhikode, on the Kozhikode–Mukkam Road.[5] It was established in 1961 and was known as Calicut Regional Engineering College (CREC) until 2002. It is one of the National Institutes of Technology campuses established by the Government of India for imparting high standard technical education to students from all over the country. NIT Calicut hosts a supercomputer on its campus,[6] and has a dedicated nanotechnology department.[7]
+History[edit]
+Initial years[edit]
+National Institute of Technology, Calicut was set up in 1961 as Regional Engineering College Calicut (CREC), the ninth of its kind and the first one to be established during the Third Five-Year Plan period. Until the formation of Calicut University in 1963, the institute was affiliated with Kerala University. It was largely due to the efforts of Pattom Thanu Pillai, then Chief Minister of Kerala, that the institute came into being. Prof. S. Rajaraman, first principal of Government Engineering College, Thrissur was appointed as the special officer in 1961 to organise the activities of the college until M. V. Kesava Rao took charge as the first principal of the college. The classes were initially held at the Government Polytechnic at West Hill, before it moved to its present campus in 1963. The college started with an annual intake of 125 students for the undergraduate courses, on a campus of 120 hectares (1.2 km2; 300 acres).
+Expansion[edit]
+The intake for the undergraduate courses was increased to 250 in 1966, 150 for the first year and 100 for the preparatory course. The annual intake was reduced from 250 to 200 from the year 1968–69 on account of industrial recession.
+
+After Prof S. Unnikrishnan Pillai took charge as principal in 1983, the Training and Placement Department was started to organise campus recruitments for students. The college moved into the area of information technology in 1984 with the commissioning of multi-user PSI Omni system and HCL workhorse PCs. In 1987 the college celebrated 25 years of its existence, and postgraduate courses were started. The CEDTI was established on the campus the following year.
+
+In 1990 Shankar Dayal Sharma inaugurated the Architecture Department Block and construction of a computer centre was completed. In 1996, the institute website (the first in Kerala) was launched. The Indian Institute of Management Calicut functioned from the NIT campus in its first few years of existence before moving to its new campus in Kunnamangalam in 2003.
+
+The Ministry of Human Resource Development, Government of India, accorded NIT status to REC Calicut in June 2002 granting it academic and administrative autonomy. It was a lead institute under the World Bank-funded Technical Education Quality Improvement Program (TEQIP) which began in 2002. In 2003, students were first admitted to the flagship undergraduate B.Tech through the All India Engineering Entrance Exam. With the passing of the National Institutes of Technology Act in May 2007, NIT Calicut was declared an Institute of National Importance.[8] The National Institutes of Technology Act is the second legislation for technical education institutions after the Indian Institutes of Technology Act of 1961. In 2007 NIT Calicut raised its annual intake for its undergraduate program to 570.[9] The annual intake for undergraduate program was increased to 1049 by 2011.[10]
+Campus[edit]
+Hostels NITC is a fully residential institution with 13 hostels on the campus to accommodate students. There are around 4500 students in NITC hostels. There are 13 Men's hostels, named by letters A, B, C, D, E, F, G, PG I, PG II, IH and newly formed Mega Hostel and MBA Hostel. The 4 Ladies' hostels (LH): A, B, C, and Mega Ladies Hostels have triple rooms.
+
+A and B hostels accommodate 1st year B.Tech students. II year B.Tech students are accommodated in the C and Mega Hostels. III year B.Tech students are accommodated in C and G hostels. Final year B.Tech students are accommodated in D, E, F, G and PG-II hostels. M.Tech. and MCA students reside in apartments.
+
+The older men's hostels are close to the academic area, while the IH, Mega Hostels, ladies' hostels and Professor's Apartments are in the residential campus. A mini-canteen is available in the hostel premises.
+
+Students are permitted to use their own computers in their rooms. All hostels apart from A and B are well connected through a 100 Mbit/s LAN network to the Campus Networking Center through which internet connectivity is provided for free. Each hostel contains a common room with cable TV, daily newspaper and indoor games facilities.
+
+Each hostel has its own mess and students are allowed to join the mess of any hostel, with the exception of A and B which are exclusive for first year students. The type of food served in the hostel messes is as follows:
+
+Cosmopolitan: A, B, C (Kerala - vegetarian), D, E, PG I, IH (Andhra mess)
+Non-vegetarian: F, G & PG-II (North & South mixed)
+Two cosmopolitan messes are available in the ladies hostel premises. Other facilities like mini-canteen, indoor shuttle court, gymnasium and an extension of the Co-operative Society store are available in the ladies' hostel.
+Sports[edit]
+NITC has a gymnasium, swimming pool, an open-air theatre, an auditorium and facilities for outdoor sports like tennis, football, volleyball, badminton, roller skating, hockey and basketball. It also has a cricket ground where Ranji Trophy matches have been played.[11]
+
+Central Computer Center[edit]
+
+The Central Computer Center
+The Central Computer Center[12] is a central computing facility which caters to the computing requirements of the whole community of this institution. The working hours of this centre is on round the clock on all working days except Republic Day, Independence Day, Thiruvonam, Vijayadashami, Gandhi Jayanthi, Bakrid and Christmas.
+
+The centre is equipped with three IBM X-series servers, one Dell PowerEdge 6600 Quad Processor Xeon Server, six Dell PowerEdge 2600 dual processor server and one Sunfire V210 Server. The desktops and thin clients are connected to the servers through gigabit switches and CAT6 UTP cables. The centre is connected to the campus-networking centre with backbone of 32Mbit/s through a Nortel L3 switch and in turn to the internet.
+
+Central Library[edit]
+NITC's Central Library, with more than 100,000 books, is one of the largest technical libraries in India. It subscribes to more than 200 print journals. The institute has a digital library, Nalanda (Network of Automated Library and Archives), which houses online resources. Users of the institute and networked institutions can access around 17,000 journals, proceedings, databases, electronic theses, dissertations and online courses at Nalanda. It is part of the Indest consortium, which networks the libraries at technical institutions in India.
+
+NIT Calicut's supercomputer, Purna (Parallel Universal Remote Numerical Analyser), is accessible from anywhere in the campus and is provided for the use of all students and faculty members. PURNA has a peak speed of 1.5 teraflops.[6]
+
+Technology Business Incubator[edit]
+The Technology Business Incubator (TBI) at NIT Calicut was set up with the help of the Department of Science and Technology, Government of India and the National Science and Technology Entrepreneurship Development Board (NSTEDB). Its objective is to help the development of start-up ventures in electronics and IT.TBI provide workspace with shared office facilities with emphasis on business and professional services necessary for nurturing and supporting early stage growth of technology and technology based enterprises.[13][14]
+
+Organisation and administration[edit]
+Governance[edit]
+
+The Administrative Block
+Under the constitution of the National Institutes of Technology Act 2007, the President of India is the Visitor to the institute. The authorities of the institute are Board of Governors and the Senate. The Board is headed by the chairman, who is appointed by the Visitor. The Director, who is the secretary of the Board, looks after the day-to-day running of the institute. The Board of Governors has nominees of the Central Government, the State Government, the NIT Council and the Institute Senate.
+
+Gajjala Yoganand is the chairman of the Board of Governors.[15] Prasad Krishna was appointed the director of the institute in 2021.[15]
+
+Academic departments[edit]
+The institute includes eleven academic departments, eight centres departments, 8 centers and three schools. The departments include Architecture and Planning, Chemistry, Physics, Mathematics, and Physical Education as well as five engineering determinants for Chemical Engineering, Civil Engineering, Computer Science & Engineering, Electrical Engineering, Electronics & Communication Engineering and Mechanical Engineering. The eight centres are the Campus Networking Centre (CNC), Centre for Biomechanics, Advanced Manufacturing Centre, Central Computer Centre, Centre for Value Education, Sophisticated Instruments Centre, Centre for Transportation Research and Centre for Scanning Microscopy. The three additional schools are the School of Biotechnology, School of Management Studies and School of Materials Science and Engineering.[16]
+
+School of Management Studies[edit]
+The School of Management Studies (SOMS), NIT Calicut offers a two-year residential Master of Business Administration (MBA) program for graduates in any discipline from any recognised university/institute. Admission to the MBA program is based on CAT score, performance in group discussion, and personal interviews. SOMS offers a two-year full-time MBA program with specialisations in Finance, Marketing, Human resource management, Operations, and Systems. In addition to two year MBA program, NITC-SOMS offers research programs leading to the award of Ph.D. degrees in streams of management such as General Management, Finance and Economics, Human Resource Management, and Marketing. The program was initiated in 2008 and the first batch of students enrolled in 2009.[17]
+
+Academics[edit]
+Courses[edit]
+An undergraduate course offered by NITC include Bachelor of Technology (B.Tech.) in various engineering fields and Bachelor of Architecture (B.Arch.). These are paralleled by postgraduate courses offering Master of Technology (M.Tech). In addition, NITC offers an applied computer science course granting Master of Computer Application (M.C.A.), a business course granting Master of Business Administration (M.B.A.) and a two-year Master of Science (M.Sc.) in science departments. PhD programmes are available in all engineering and science disciplines and management.
+
+Admissions[edit]
+Students are taken in for the undergraduate courses through the Joint Entrance Examination Main (JEE Main) conducted by National Testing Agency (NTA). Around 16 lakh students wrote this test in 2012 to gain admission to one of 20 NITs. This makes it one of the largest such examinations in the world.[18] Admission to some other autonomous national level technical institutes (called Deemed University) is also through JEE Main. Students who have studied outside India for a minimum period of 2(two) years may seek admission through DASA (Direct Admission for Students Abroad) which was managed by EdCil (Educational Consultants India Limited) and is currently being managed by the National Institute of Technology Hazaratbal, Srinagar, (based on 12th Standard Board Examination marks or equivalent higher secondary examination marks/grade and SAT-II (Scholastic Aptitude Test -II) scores in Physics, Chemistry, and Mathematics conducted by College Board. A similar admission provision is provided for foreign nationals.
+
+Admission to the graduate M.Tech and Ph.D. courses are primarily based on scores in the GATE exam, conducted by the IITs. Admission to the MCA program is done through the NIMCET conducted by the NITs. The first NIMCET in 2006 was conducted by NIT Calicut. Faculty from other institutes work as research scholars in NITC under the Quality Improvement Programme (QIP). It is the national coordination center for the QIP of polytechnic institutes.
+
+Admission to MBA course is based on the Common Admission Test[CAT] score. Admission details will be published on the institute website and major dailies in India. The applicants will be shortlisted based on the CAT score, performance in the qualifying degree (BTech/BE) and work experience. The final selection is based on the performance of shortlisted candidates in group discussion (GD) and personal interview (PI). The GD and PI are normally conducted in major cities across India.
+
+Rankings[edit]
+College rankings
+Engineering – India
+NIRF (2020)[19]	23
+The Week (2019)[20]	23
+Architecture – India
+NIRF (2020)[21]	3
+NIRF (2021)[22]	2
+NIT Calicut was ranked 23rd in the engineering stream[19] and 3rd in the architecture stream in India by the National Institutional Ranking Framework (NIRF) in 2020.[21] It was ranked 23rd among engineering colleges in India in 2019 by The Week.[20] National Institute of Technology Calicut (NITC) has secured secured 9th rank in the ARIIA 21 in the category of centrally funded technical institutes (CFTIs), central university and institutes of national importance). NITC has become the first among all the 31 NITs in the country in the ARIIA 21 rankings.[23]
+
+International Liaison Office[edit]
+The institute has set up an International Liaison Office to follow up the MoUs (Memorandum of Understanding) signed between NITC and other institutions in the world. It also guides current students from abroad and those interested in joining the institute. In 2011, a MoU was signed between NITC and Auburn University (USA) for research in Photonics.[24] A MoU was also signed with NITK Suratkal for academic and research collaborations.[25] NITC is also the mentoring institute of NIT Sikkim.
+
+International conferences and symposiums[edit]
+For two consecutive years, 2010 and 2011, NIT Calicut organised the Indo-US Symposium on Biocomputing.[26] The symposium was organised jointly by the Department of Computer Science and Engineering and the School of Biotechnology and was held at the Taj Gateway in Calicut. It was jointly funded by the Department of Bio-Technology (India) and the National Science Foundation (USA).[27] The symposium consisted of a series of talks by leading researchers from India and the US in the area of biocomputing.
+
+Embarking on novel research domain of light-matter interaction, and fostering interaction amongst researchers in the field of Light, the Department of Physics at NIT Calicut hosted an International Conference on Light: Optics '14. The conference conducted during 19–21 March 2014, witnessed research works from numerous institutes within the nation and abroad. Gold medals were awarded to the best papers, while some selected papers were reviewed and published in American Institute of Physics (AIP) Proceedings.[28]
+
+NIT Calicut hosted TEDx NIT Calicut on 14 January 2012,12 February 2017 which was an independently organised TED event, consisting of talks, video and interactive sessions with high-achieving entrepreneurs, innovators, performers, and industry leaders.[29]
+
+Student life[edit]
+NIT Calicut holds two major annual events, the techno-management festival Tathva, held in the monsoon semester, and the cultural festival Ragam, which is held in the winter semester.
+
+Tathva[edit]
+Tathva is the annual techno-management fest organised by the Institute, and one of the largest technical festivals of South India.[30][31] It is usually held during the month of September and lasts for four days. It has been held every year since its inception in 2001. Aimed at inspiring innovation and technical interest among students and the public, Tathva has played host to lectures, seminars, workshops by companies like ParaMek Technologies, competitions, paper presentations, exhibitions, quizzes, model displays, and robotics events. A.P.J. Abdul Kalam, G. Madhavan Nair, Harold Kroto, Johannes Orphal, Jimmy Wales, and Suhas Gopinath, were some of the eminent guests in previous editions of Tathva.[32][citation needed]
+
+Ragam[edit]
+
+Open Air Theater
+Main article: Ragam (festival)
+Ragam is the cultural festival of NITC. Colleges and universities from Kerala and outside compete in events like trivia quizzes, dance competitions, rock shows, and music concerts. Some of the performers who have performed in previous years include Shaan, Sunidhi Chauhan, Blaaze, Shankar Mahadevan, Kartik, Benny Dayal, Stephen Devassy, Sonu Nigam, Parikrama and Darshan Raval. Breathe Floyd, a Pink Floyd tribute band from the UK, performed during Ragam 2009. Ragam 2010 featured KK, Naresh Iyer, and Higher on Maiden, a tribute band to Iron Maiden. Ragam is held in the memory of a former student P. Rajan who died after being held (ostensibly for being a Naxalite) in police custody.[33]
+
+Hoping to make their way into the Limca Book of Records, in Ragam 2015, students took part in an event to get the most people in a single selfie. It was organised to break the Bangladeshi record of 1,151 people in a single selfie that took place during a product promotion event. According to the event organisers, more than 2,000 students gathered in the venue for the event. Apart from this, another cultural event called Sneharagam was organised, which is meant for the differently-abled children from all over Kerala.[34]
+
+Student organisations[edit]
+The student organisations at NITC include Robotics Interest Group (RIG), the Literary and Debating Club (LND), The Indian Cultural Association (ICA), the Forum for Dance and Dramatics (DND), Civil Engineering Association (CEA),[35] Electronics and Communication Engineering Association (ECEA), Electrical Engineering Association (EEA),[36] Computer Science & Engineering Association (CSEA),[37] Chemical Engineering Association (CHEA) which is the NITC Chapter of IIChE, Mechanical Engineering Association, Enquire (the NITC Quiz Club), The Music Club, Club Mathematica, Audio Visual Club (AVC), Team Unwired (Engineering and Technology Club), Aero Unwired (an Aeromodelling Club), Society of Automotive Engineers (SAE) student chapter, the Indian Society for Technical Education (ISTE) Students' Chapter,[38] the SPICMACAY NIT Calicut chapter, The Industrial and Planning Forum (IPF), the Nature Club, Adventure Club (Ad-Club), and the Robotics Interest Group (Engineering and Technology).
+
+Professional bodies with student chapters include NIT Calicut ACM Student Chapter,[39] Computer Society of India, the Indian Society for Technical Education, Institute of Electrical and Electronics Engineers (IEEE) and the Institution of Engineers (India).
